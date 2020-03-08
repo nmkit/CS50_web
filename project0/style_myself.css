@@ -12,6 +12,9 @@ h1 {
 }
 
 p, ul li{
-    font-size: 14;
+    text-decoration: italic;
 }
 
+body > div {
+    font-size: 14;
+}
