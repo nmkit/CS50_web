@@ -15,8 +15,8 @@ h2 {
     text-decoration: underline;
 }
 
-p,ul li{
-    text-decoration: overline;
+p, ul li{
+    font-style: italic;
 }
 
 body>div {
