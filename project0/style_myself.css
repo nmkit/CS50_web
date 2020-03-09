@@ -15,10 +15,10 @@ h2{
     text-decoration: underline;
 }
 
-p, ul li{
-    text-decoration: italic;
+p,ul li{
+    text-decoration: overline;
 }
 
-body > div {
+body>div {
     font-size: 24;
 }
