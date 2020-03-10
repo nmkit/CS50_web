@@ -24,9 +24,9 @@ body {
     font-size: 150%
 }
 
-@media (max-width: 800px){
+@media (max-width: 480px){
                 body{
                 background-color: red;
-                font-size: 150%;
+                font-size: 200%;
                 }
 }
