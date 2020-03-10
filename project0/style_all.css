@@ -17,7 +17,7 @@ h2 {
     text-decoration: underline;
 }
 
-.p_myself, ul li{
+#p_myself, ul li{
     font-style: italic;
 }
 
