@@ -22,5 +22,10 @@ h2 {
 }
 
 p {
-    font-size: 34;
+    font-size: 150%;
 }
+
+@media (max-width: 500px){
+                background-color: red;
+                font-size: 200%
+            }
